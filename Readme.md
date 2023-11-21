@@ -12,12 +12,6 @@ This example illustrates how to change themes on the fly.
 
 ## Implementation Details
 
-When a user selects an option in RadioButtonList, the selected value is saved to Cookies.
-
-```csharp
-settings.Properties.ClientSideEvents.SelectedIndexChanged = "function (s,e) {ASPxClientUtils.SetCookie('theme', s.GetValue());}";
-```
-
 To apply a theme, specify the theme and its base settings in the _Global.asax_ file:
 
 ```csharp
@@ -30,7 +24,7 @@ protected void Application_PreRequestHandlerExecute(object sender, EventArgs e) 
 
 ## Files to Review
 
-* * [Global.asax.cs](./CS/DxWebApp/Global.asax.cs) (VB: [Global.asax.vb](./VB/DxWebApp/Global.asax.vb))
+* [Global.asax.cs](./CS/DxWebApp/Global.asax.cs) (VB: [Global.asax.vb](./VB/DxWebApp/Global.asax.vb))
   
 ## Documentation
 
