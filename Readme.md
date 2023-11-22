@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # ASP.NET MVC - How to change themes on the fly
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3825/)**
+**[[Run Online]](https://codecentral.devexpress.com/128566145/)**
 <!-- run online end -->
 
 This example illustrates how to change themes on the fly.
