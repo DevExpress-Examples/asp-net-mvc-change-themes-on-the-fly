@@ -32,7 +32,7 @@ protected void Application_PreRequestHandlerExecute(object sender, EventArgs e) 
 
 * [ASP.NET Web Forms - How to change themes on the fly](https://github.com/DevExpress-Examples/asp-net-web-forms-change-themes-on-the-fly)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-change-themes-on-the-fly&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-change-themes-on-the-fly&~~~was_helpful=no)
 
